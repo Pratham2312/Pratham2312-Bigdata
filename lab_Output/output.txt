@@ -1,0 +1,59 @@
+PS C:\Users\prath\Downloads\reavture labs\Pratham2312-Bigdata> python src/main/app.py
+>>
+
+Top 5 Best-Selling Products:
+               product  sales_count
+0          Spark Intro          174
+1      Python for Data          173
+2       Spark Advanced          172
+3  Big Data Essentials          170
+4      Hadoop Advanced          158
+
+Monthly Revenue Trend:
+     month  total_revenue
+0  2025-03      276265.49
+
+Payment Method Popularity:
+  PaymentMethod  transaction_count
+0          Cash                277
+1   Credit Card                251
+2        PayPal                241
+3    Debit Card                231
+
+Top Cities with Most Transactions:
+          City  txn_count
+0      Chicago        178
+1      Houston        177
+2     New York        172
+3  Los Angeles        169
+4      Seattle        168
+
+Top 5 Spending Customers:
+  customer_id  total_spent
+0     CUST092      5437.44
+1     CUST011      5332.80
+2     CUST063      5294.23
+3     CUST003      4563.07
+4     CUST081      4492.42
+
+Hadoop Product Sales:
+           product  sales_count
+0  Hadoop Advanced          158
+1    Hadoop Basics          153
+
+Spark Product Sales:
+          product  sales_count
+0  Spark Advanced          172
+1     Spark Intro          174
+
+Top Spending Customers by City:
+            city customer_id  total_spent
+0        Chicago     CUST064      1606.62
+1        Houston     CUST029      2142.50
+2    Los Angeles     CUST034      1525.92
+3       New York     CUST098      1684.36
+4  San Francisco     CUST022      1150.49
+5        Seattle     CUST100      1801.34
+
+✅ Data Processing & Advanced Analysis Completed Successfully!
+PS C:\Users\prath\Downloads\reavture labs\Pratham2312-Bigdata> 
